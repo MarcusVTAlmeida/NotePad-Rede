@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/NotePad-Rede/static/css/main.3e81b632.chunk.css",
-    "main.js": "/NotePad-Rede/static/js/main.1502efdc.chunk.js",
-    "main.js.map": "/NotePad-Rede/static/js/main.1502efdc.chunk.js.map",
+    "main.js": "/NotePad-Rede/static/js/main.0b10a91c.chunk.js",
+    "main.js.map": "/NotePad-Rede/static/js/main.0b10a91c.chunk.js.map",
     "runtime-main.js": "/NotePad-Rede/static/js/runtime-main.601567f8.js",
     "runtime-main.js.map": "/NotePad-Rede/static/js/runtime-main.601567f8.js.map",
     "static/css/2.a5f88754.chunk.css": "/NotePad-Rede/static/css/2.a5f88754.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.a5f88754.chunk.css",
     "static/js/2.9c55482d.chunk.js",
     "static/css/main.3e81b632.chunk.css",
-    "static/js/main.1502efdc.chunk.js"
+    "static/js/main.0b10a91c.chunk.js"
   ]
 }
