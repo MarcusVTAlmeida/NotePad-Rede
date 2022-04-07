@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/NotePad-Rede/static/css/main.3e81b632.chunk.css",
-    "main.js": "/NotePad-Rede/static/js/main.0b10a91c.chunk.js",
-    "main.js.map": "/NotePad-Rede/static/js/main.0b10a91c.chunk.js.map",
-    "runtime-main.js": "/NotePad-Rede/static/js/runtime-main.601567f8.js",
-    "runtime-main.js.map": "/NotePad-Rede/static/js/runtime-main.601567f8.js.map",
-    "static/css/2.a5f88754.chunk.css": "/NotePad-Rede/static/css/2.a5f88754.chunk.css",
-    "static/js/2.9c55482d.chunk.js": "/NotePad-Rede/static/js/2.9c55482d.chunk.js",
-    "static/js/2.9c55482d.chunk.js.map": "/NotePad-Rede/static/js/2.9c55482d.chunk.js.map",
-    "static/js/3.e8eb123f.chunk.js": "/NotePad-Rede/static/js/3.e8eb123f.chunk.js",
-    "static/js/3.e8eb123f.chunk.js.map": "/NotePad-Rede/static/js/3.e8eb123f.chunk.js.map",
+    "main.js": "/NotePad-Rede/static/js/main.2fdb2023.chunk.js",
+    "main.js.map": "/NotePad-Rede/static/js/main.2fdb2023.chunk.js.map",
+    "runtime-main.js": "/NotePad-Rede/static/js/runtime-main.cc631cf1.js",
+    "runtime-main.js.map": "/NotePad-Rede/static/js/runtime-main.cc631cf1.js.map",
+    "static/css/2.c6e9d817.chunk.css": "/NotePad-Rede/static/css/2.c6e9d817.chunk.css",
+    "static/js/2.3996b5aa.chunk.js": "/NotePad-Rede/static/js/2.3996b5aa.chunk.js",
+    "static/js/2.3996b5aa.chunk.js.map": "/NotePad-Rede/static/js/2.3996b5aa.chunk.js.map",
+    "static/js/3.19cc99f8.chunk.js": "/NotePad-Rede/static/js/3.19cc99f8.chunk.js",
+    "static/js/3.19cc99f8.chunk.js.map": "/NotePad-Rede/static/js/3.19cc99f8.chunk.js.map",
     "index.html": "/NotePad-Rede/index.html",
-    "static/css/2.a5f88754.chunk.css.map": "/NotePad-Rede/static/css/2.a5f88754.chunk.css.map",
+    "static/css/2.c6e9d817.chunk.css.map": "/NotePad-Rede/static/css/2.c6e9d817.chunk.css.map",
     "static/css/main.3e81b632.chunk.css.map": "/NotePad-Rede/static/css/main.3e81b632.chunk.css.map",
-    "static/js/2.9c55482d.chunk.js.LICENSE.txt": "/NotePad-Rede/static/js/2.9c55482d.chunk.js.LICENSE.txt"
+    "static/js/2.3996b5aa.chunk.js.LICENSE.txt": "/NotePad-Rede/static/js/2.3996b5aa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.601567f8.js",
-    "static/css/2.a5f88754.chunk.css",
-    "static/js/2.9c55482d.chunk.js",
+    "static/js/runtime-main.cc631cf1.js",
+    "static/css/2.c6e9d817.chunk.css",
+    "static/js/2.3996b5aa.chunk.js",
     "static/css/main.3e81b632.chunk.css",
-    "static/js/main.0b10a91c.chunk.js"
+    "static/js/main.2fdb2023.chunk.js"
   ]
 }
