@@ -5,7 +5,7 @@ import 'mdb-react-ui-kit/dist/css/mdb.min.css'
 import './index.css';
 import Clipboard from 'react-clipboard.js';
 import Scripts from "./Scripts";
-
+   
 class App extends React.Component {
   constructor(props) {
     super(props);  
